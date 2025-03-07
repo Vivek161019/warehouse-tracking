@@ -1,1 +1,5 @@
 
+[
+    {"shipmentNumber": "12345", "binLocation": "L1R10"},
+    {"shipmentNumber": "67890", "binLocation": "L2R5"}
+]
